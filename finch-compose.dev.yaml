@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./ecs_fargate_app
+      dockerfile: finch/backend.dev.Dockerfile
+    environment:
+      - AWS_REGION=${AWS_REGION}
+      - WA_DOCS_S3_BUCKET=${WA_DOCS_S3_BUCKET}
+      - KNOWLEDGE_BASE_ID=${KNOWLEDGE_BASE_ID}
+      - MODEL_ID=${MODEL_ID}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
+      - FRONTEND_URL=http://localhost:8080
+      # Auth and Storage configuration for local development
+      - AUTH_ENABLED=true
+      - AUTH_DEV_MODE=true
+      - AUTH_DEV_EMAIL=dev-user@example.com
+      - STORAGE_ENABLED=${STORAGE_ENABLED:-false}
+      - ANALYSIS_STORAGE_BUCKET=${ANALYSIS_STORAGE_BUCKET}
+      - ANALYSIS_METADATA_TABLE=${ANALYSIS_METADATA_TABLE}
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./ecs_fargate_app/backend/src:/app/src
+      - ./ecs_fargate_app/backend/package.json:/app/package.json
+
+  frontend:
+    build:
+      context: ./ecs_fargate_app
+      dockerfile: finch/frontend.dev.Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./ecs_fargate_app/frontend/src:/app/src
+      - ./ecs_fargate_app/frontend/public:/app/public
+      - ./ecs_fargate_app/frontend/index.html:/app/index.html
+      - ./ecs_fargate_app/frontend/package.json:/app/package.json
+      - ./ecs_fargate_app/frontend/vite.config.ts:/app/vite.config.ts
+    environment:
+      - VITE_API_URL=http://localhost:8080/api
+      - NODE_ENV=development
+      - AUTH_ENABLED=true
+      - AUTH_DEV_MODE=true
+    depends_on:
+      - backend

@@ -1,0 +1,11 @@
+# finch.yaml
+version: 1
+builder:
+  name: buildkit
+  settings:
+    platforms: linux/amd64
+
+volumes:
+  npm-cache:
+    path: /root/.npm
+    scope: shared

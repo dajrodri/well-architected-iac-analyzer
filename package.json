@@ -1,0 +1,10 @@
+{
+  "name": "well-architected-iac-analyzer",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:up": "./dev.sh -c docker -up",
+    "dev:down": "./dev.sh -c docker -down",
+    "dev:up:finch": "./dev.sh -c finch -up",
+    "dev:down:finch": "./dev.sh -c finch -down"
+  }
+}
