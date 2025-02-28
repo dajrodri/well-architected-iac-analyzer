@@ -1,0 +1,309 @@
+Pillar,Question,Best Practice
+Cost Optimization,How do you implement cloud financial management?,Establish ownership of cost optimization
+Cost Optimization,How do you implement cloud financial management?,Establish a partnership between finance and technology
+Cost Optimization,How do you implement cloud financial management?,Establish cloud budgets and forecasts
+Cost Optimization,How do you implement cloud financial management?,Implement cost awareness in your organizational processes
+Cost Optimization,How do you implement cloud financial management?,Monitor cost proactively
+Cost Optimization,How do you implement cloud financial management?,Keep up-to-date with new service releases
+Cost Optimization,How do you implement cloud financial management?,Quantify business value from cost optimization
+Cost Optimization,How do you implement cloud financial management?,Report and notify on cost optimization
+Cost Optimization,How do you implement cloud financial management?,Create a cost-aware culture
+Cost Optimization,How do you govern usage?,Develop policies based on your organization requirements
+Cost Optimization,How do you govern usage?,Implement goals and targets
+Cost Optimization,How do you govern usage?,Implement an account structure
+Cost Optimization,How do you govern usage?,Implement cost controls
+Cost Optimization,How do you govern usage?,Implement groups and role
+Cost Optimization,How do you govern usage?,Track project lifecycle
+Cost Optimization,How do you monitor your cost and usage?,Configure detailed information sources
+Cost Optimization,How do you monitor your cost and usage?,Identify cost attribution categories
+Cost Optimization,How do you monitor your cost and usage?,Establish organization metrics
+Cost Optimization,How do you monitor your cost and usage?,Configure billing and cost management tools
+Cost Optimization,How do you monitor your cost and usage?,Add organization information to cost and usage
+Cost Optimization,How do you monitor your cost and usage?,Allocate costs based on workload metrics
+Cost Optimization,How do you decommission resources?,Track resources over their life time
+Cost Optimization,How do you decommission resources?,Implement a decommissioning process
+Cost Optimization,How do you decommission resources?,Decommission resources
+Cost Optimization,How do you decommission resources?,Enforce data retention policies
+Cost Optimization,How do you decommission resources?,Decommission resources automatically
+Cost Optimization,How do you evaluate cost when you select services?,Identify organization requirements for cost
+Cost Optimization,How do you evaluate cost when you select services?,Analyze all components of this workload
+Cost Optimization,How do you evaluate cost when you select services?,Perform a thorough analysis of each component
+Cost Optimization,How do you evaluate cost when you select services?,Select components of this workload to optimize cost in line with organization priorities
+Cost Optimization,How do you evaluate cost when you select services?,Perform cost analysis for different usage over time
+Cost Optimization,How do you evaluate cost when you select services?,Select software with cost effective licensing
+Cost Optimization,"How do you meet cost targets when you select resource type, size and number?",Perform cost modeling
+Cost Optimization,"How do you meet cost targets when you select resource type, size and number?","Select resource type, size, and number based on data"
+Cost Optimization,"How do you meet cost targets when you select resource type, size and number?",Consider using shared resources
+Cost Optimization,"How do you meet cost targets when you select resource type, size and number?","Select resource type, size, and number automatically based on metrics"
+Cost Optimization,How do you use pricing models to reduce cost?,Perform pricing model analysis
+Cost Optimization,How do you use pricing models to reduce cost?,Choose Regions based on cost
+Cost Optimization,How do you use pricing models to reduce cost?,Select third-party agreements with cost-efficient terms
+Cost Optimization,How do you use pricing models to reduce cost?,Implement pricing models for all components of this workload
+Cost Optimization,How do you use pricing models to reduce cost?,Perform pricing model analysis at the management account level
+Cost Optimization,How do you plan for data transfer charges?,Perform data transfer modeling
+Cost Optimization,How do you plan for data transfer charges?,Select components to optimize data transfer cost
+Cost Optimization,How do you plan for data transfer charges?,Implement services to reduce data transfer costs
+Cost Optimization,"How do you manage demand, and supply resources?",Perform an analysis on the workload demand
+Cost Optimization,"How do you manage demand, and supply resources?",Implement a buffer or throttle to manage demand
+Cost Optimization,"How do you manage demand, and supply resources?",Supply resources dynamically
+Cost Optimization,How do you evaluate new services?,Develop a workload review process
+Cost Optimization,How do you evaluate new services?,Review and analyze this workload regularly
+Cost Optimization,How do you evaluate the cost of effort?,Perform automation for operations
+Operational Excellence,How do you determine what your priorities are?,Evaluate customer needs
+Operational Excellence,How do you determine what your priorities are?,Evaluate internal customer needs
+Operational Excellence,How do you determine what your priorities are?,Evaluate governance requirements
+Operational Excellence,How do you determine what your priorities are?,Evaluate compliance requirements
+Operational Excellence,How do you determine what your priorities are?,Evaluate threat landscape
+Operational Excellence,How do you determine what your priorities are?,Evaluate tradeoffs while managing benefits and risks
+Operational Excellence,How do you structure your organization to support your business outcomes?,Resources have identified owners
+Operational Excellence,How do you structure your organization to support your business outcomes?,Processes and procedures have identified owners
+Operational Excellence,How do you structure your organization to support your business outcomes?,Operations activities have identified owners responsible for their performance
+Operational Excellence,How do you structure your organization to support your business outcomes?,Mechanisms exist to manage responsibilities and ownership
+Operational Excellence,How do you structure your organization to support your business outcomes?,"Mechanisms exist to request additions, changes, and exceptions"
+Operational Excellence,How do you structure your organization to support your business outcomes?,Responsibilities between teams are predefined or negotiated
+Operational Excellence,How does your organizational culture support your business outcomes?,Provide executive sponsorship
+Operational Excellence,How does your organizational culture support your business outcomes?,Escalation is encouraged
+Operational Excellence,How does your organizational culture support your business outcomes?,"Communications are timely, clear, and actionable"
+Operational Excellence,How does your organizational culture support your business outcomes?,Team members are empowered to take action when outcomes are at risk
+Operational Excellence,How does your organizational culture support your business outcomes?,Experimentation is encouraged
+Operational Excellence,How does your organizational culture support your business outcomes?,Team members are encouraged to maintain and grow their skill sets
+Operational Excellence,How does your organizational culture support your business outcomes?,Resource teams appropriately
+Operational Excellence,How do you implement observability in your workload?,Identify key performance indicators
+Operational Excellence,How do you implement observability in your workload?,Implement application telemetry
+Operational Excellence,How do you implement observability in your workload?,Implement user experience telemetry
+Operational Excellence,How do you implement observability in your workload?,Implement dependency telemetry
+Operational Excellence,How do you implement observability in your workload?,Implement distributed tracing
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Use version control
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Test and validate changes
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Use configuration management systems
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Use build and deployment management systems
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Perform patch management
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Share design standards
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Implement practices to improve code quality
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Use multiple environments
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?","Make frequent, small, reversible changes"
+Operational Excellence,"How do you reduce defects, ease remediation, and improve flow into production?",Fully automate integration and deployment
+Operational Excellence,How do you mitigate deployment risks?,Plan for unsuccessful changes
+Operational Excellence,How do you mitigate deployment risks?,Test deployments
+Operational Excellence,How do you mitigate deployment risks?,Employ safe deployment strategies
+Operational Excellence,How do you mitigate deployment risks?,Automate testing and rollback
+Operational Excellence,How do you know that you are ready to support a workload?,Ensure personnel capability
+Operational Excellence,How do you know that you are ready to support a workload?,Ensure a consistent review of operational readiness
+Operational Excellence,How do you know that you are ready to support a workload?,Use runbooks to perform procedures
+Operational Excellence,How do you know that you are ready to support a workload?,Use playbooks to investigate issues
+Operational Excellence,How do you know that you are ready to support a workload?,Make informed decisions to deploy systems and changes
+Operational Excellence,How do you know that you are ready to support a workload?,Create support plans for production workloads
+Operational Excellence,How do you utilize workload observability in your organization?,Create actionable alerts
+Operational Excellence,How do you utilize workload observability in your organization?,Analyze workload metrics
+Operational Excellence,How do you utilize workload observability in your organization?,Analyze workload logs
+Operational Excellence,How do you utilize workload observability in your organization?,Analyze workload traces
+Operational Excellence,How do you utilize workload observability in your organization?,Create dashboards
+Operational Excellence,How do you understand the health of your operations?,Measure operations goals and KPIs with metrics
+Operational Excellence,How do you understand the health of your operations?,Communicate status and trends to ensure visibility into operation
+Operational Excellence,How do you understand the health of your operations?,Review operations metrics and prioritize improvement
+Operational Excellence,How do you manage workload and operations events?,"Use a process for event, incident, and problem management"
+Operational Excellence,How do you manage workload and operations events?,Have a process per alert
+Operational Excellence,How do you manage workload and operations events?,Prioritize operational events based on business impact
+Operational Excellence,How do you manage workload and operations events?,Define escalation paths
+Operational Excellence,How do you manage workload and operations events?,Define a customer communication plan for service-impacting events
+Operational Excellence,How do you manage workload and operations events?,Communicate status through dashboards
+Operational Excellence,How do you manage workload and operations events?,Automate responses to events
+Operational Excellence,How do you evolve operations?,Have a process for continuous improvement
+Operational Excellence,How do you evolve operations?,Perform post-incident analysis
+Operational Excellence,How do you evolve operations?,Implement feedback loops
+Operational Excellence,How do you evolve operations?,Perform knowledge management
+Operational Excellence,How do you evolve operations?,Define drivers for improvement
+Operational Excellence,How do you evolve operations?,Validate insights
+Operational Excellence,How do you evolve operations?,Perform operations metrics reviews
+Operational Excellence,How do you evolve operations?,Document and share lessons learned
+Operational Excellence,How do you evolve operations?,Allocate time to make improvements
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Learn about and understand available cloud services and features
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Evaluate how trade-offs impact customers and architecture efficiency
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Use guidance from your cloud provider or an appropriate partner to learn about architecture patterns and best practices
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Factor cost into architectural decisions
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Use policies and reference architectures
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Use benchmarking to drive architectural decisions
+Performance Efficiency,How do you select the appropriate cloud resources and architecture patterns for your workload?,Use a data-driven approach for architectural choices
+Performance Efficiency,How do you select and use compute resources in your workload?,Select the best compute options for your workload
+Performance Efficiency,How do you select and use compute resources in your workload?,Collect compute-related metrics
+Performance Efficiency,How do you select and use compute resources in your workload?,Scale your compute resources dynamically
+Performance Efficiency,How do you select and use compute resources in your workload?,Understand the available compute configuration and features
+Performance Efficiency,How do you select and use compute resources in your workload?,Configure and right-size compute resources
+Performance Efficiency,How do you select and use compute resources in your workload?,Use optimized hardware-based compute accelerators
+Performance Efficiency,"How do you store, manage, and access data in your workload?",Use purpose-built data store that best support your data access and storage requirements
+Performance Efficiency,"How do you store, manage, and access data in your workload?",Collect and record data store performance metrics
+Performance Efficiency,"How do you store, manage, and access data in your workload?",Evaluate available configuration options for data store
+Performance Efficiency,"How do you store, manage, and access data in your workload?",Implement strategies to improve query performance in data store
+Performance Efficiency,"How do you store, manage, and access data in your workload?",Implement data access patterns that utilize caching
+Performance Efficiency,How do you select and configure networking resources in your workload?,Understand how networking impacts performance
+Performance Efficiency,How do you select and configure networking resources in your workload?,Evaluate available networking features
+Performance Efficiency,How do you select and configure networking resources in your workload?,Choose appropriate dedicated connectivity or VPN for your workload
+Performance Efficiency,How do you select and configure networking resources in your workload?,Use load balancing to distribute traffic across multiple resources
+Performance Efficiency,How do you select and configure networking resources in your workload?,Choose network protocols to improve performance
+Performance Efficiency,How do you select and configure networking resources in your workload?,Choose your workload's location based on network requirements
+Performance Efficiency,How do you select and configure networking resources in your workload?,Optimize network configuration based on metrics
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Establish key performance indicators (KPIs) to measure workload health and performance
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Use monitoring solutions to understand the areas where performance is most critical
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Define a process to improve workload performance
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Review metrics at regular intervals
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Load test your workload
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Use automation to proactively remediate performance-related issues
+Performance Efficiency,What process do you use to support more performance efficiency for your workload?,Keep your workload and services up-to-date
+Reliability,How do you manage service quotas and constraints?,Aware of service quotas and constraints
+Reliability,How do you manage service quotas and constraints?,Manage service quotas across accounts and Regions
+Reliability,How do you manage service quotas and constraints?,Accommodate fixed service quotas and constraints through architecture
+Reliability,How do you manage service quotas and constraints?,Monitor and manage quotas
+Reliability,How do you manage service quotas and constraints?,Automate quota management
+Reliability,How do you manage service quotas and constraints?,Ensure that a sufficient gap exists between the current quotas and the maximum usage to accommodate failover
+Reliability,How do you plan your network topology?,Use highly available network connectivity for your workload public endpoints
+Reliability,How do you plan your network topology?,Provision redundant connectivity between private networks in the cloud and on-premises environments
+Reliability,How do you plan your network topology?,Ensure IP subnet allocation accounts for expansion and availability
+Reliability,How do you plan your network topology?,Prefer hub-and-spoke topologies over many-to-many mesh
+Reliability,How do you plan your network topology?,Enforce non-overlapping private IP address ranges in all private address spaces where they are connected
+Reliability,How do you design your workload service architecture?,Choose how to segment your workload
+Reliability,How do you design your workload service architecture?,Build services focused on specific business domains and functionality
+Reliability,How do you design your workload service architecture?,Provide service contracts per API
+Reliability,How do you design interactions in a distributed system to prevent failures?,Identify the kind of distributed systems you depend on
+Reliability,How do you design interactions in a distributed system to prevent failures?,Implement loosely coupled dependencies
+Reliability,How do you design interactions in a distributed system to prevent failures?,Make all responses idempotent
+Reliability,How do you design interactions in a distributed system to prevent failures?,Do constant work
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Implement graceful degradation to transform applicable hard dependencies into soft dependencies
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Throttle requests
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Control and limit retry calls
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Fail fast and limit queues
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Set client timeouts
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Make systems stateless where possible
+Reliability,How do you design interactions in a distributed system to mitigate or withstand failures?,Implement emergency levers
+Reliability,How do you monitor workload resources?,Monitor all components for the workload (Generation)
+Reliability,How do you monitor workload resources?,Define and calculate metrics (Aggregation)
+Reliability,How do you monitor workload resources?,Send notifications (Real-time processing and alarming)
+Reliability,How do you monitor workload resources?,Automate responses (Real-time processing and alarming)
+Reliability,How do you monitor workload resources?,Analyze logs
+Reliability,How do you monitor workload resources?,Conduct reviews regularly
+Reliability,How do you monitor workload resources?,Monitor end-to-end tracing of requests through your system
+Reliability,How do you design your workload to adapt to changes in demand?,Use automation when obtaining or scaling resources
+Reliability,How do you design your workload to adapt to changes in demand?,Obtain resources upon detection of impairment to a workload
+Reliability,How do you design your workload to adapt to changes in demand?,Obtain resources upon detection that more resources are needed for a workload
+Reliability,How do you design your workload to adapt to changes in demand?,Load test your workload
+Reliability,How do you implement change?,Use runbooks for standard activities such as deployment
+Reliability,How do you implement change?,Integrate functional testing as part of your deployment
+Reliability,How do you implement change?,Integrate resiliency testing as part of your deployment
+Reliability,How do you implement change?,Deploy using immutable infrastructure
+Reliability,How do you implement change?,Deploy changes with automation
+Reliability,How do you back up data?,"Identify and back up all data that needs to be backed up, or reproduce the data from sources"
+Reliability,How do you back up data?,Secure and encrypt backups
+Reliability,How do you back up data?,Perform data backup automatically
+Reliability,How do you back up data?,Perform periodic recovery of the data to verify backup integrity and processes
+Reliability,How do you use fault isolation to protect your workload?,Deploy the workload to multiple locations
+Reliability,How do you use fault isolation to protect your workload?,Select the appropriate locations for your multi-location deployment
+Reliability,How do you use fault isolation to protect your workload?,Use bulkhead architectures to limit scope of impact
+Reliability,How do you use fault isolation to protect your workload?,Automate recovery for components constrained to a single location
+Reliability,How do you design your workload to withstand component failures?,Monitor all components of the workload to detect failures
+Reliability,How do you design your workload to withstand component failures?,Fail over to healthy resources
+Reliability,How do you design your workload to withstand component failures?,Automate healing on all layers
+Reliability,How do you design your workload to withstand component failures?,Rely on the data plane and not the control plane during recovery
+Reliability,How do you design your workload to withstand component failures?,Use static stability to prevent bimodal behavior
+Reliability,How do you design your workload to withstand component failures?,Send notifications when events impact availability
+Reliability,How do you design your workload to withstand component failures?,Architect your product to meet availability targets and uptime service level agreements (SLAs)
+Reliability,How do you test reliability?,Use playbooks to investigate failures
+Reliability,How do you test reliability?,Perform post-incident analysis
+Reliability,How do you test reliability?,Test functional requirements
+Reliability,How do you test reliability?,Test scaling and performance requirements
+Reliability,How do you test reliability?,Test resiliency using chaos engineering
+Reliability,How do you test reliability?,Conduct game days regularly
+Reliability,How do you plan for disaster recovery (DR)?,Define recovery objectives for downtime and data loss
+Reliability,How do you plan for disaster recovery (DR)?,Use defined recovery strategies to meet the recovery objectives
+Reliability,How do you plan for disaster recovery (DR)?,Test disaster recovery implementation to validate the implementation
+Reliability,How do you plan for disaster recovery (DR)?,Manage configuration drift at the DR site or Region
+Reliability,How do you plan for disaster recovery (DR)?,Automate recovery
+Security,How do you securely operate your workload?,Separate workloads using accounts
+Security,How do you securely operate your workload?,Secure account root user and properties
+Security,How do you securely operate your workload?,Identify and validate control objectives
+Security,How do you securely operate your workload?,Stay up to date with security threats and recommendations
+Security,How do you securely operate your workload?,Identify and prioritize risks using a threat model
+Security,How do you securely operate your workload?,Reduce security management scope
+Security,How do you securely operate your workload?,Automate deployment of standard security controls
+Security,How do you securely operate your workload?,Evaluate and implement new security services and features regularly
+Security,How do you manage identities for people and machines?,Use strong sign-in mechanisms
+Security,How do you manage identities for people and machines?,Use temporary credentials
+Security,How do you manage identities for people and machines?,Store and use secrets securely
+Security,How do you manage identities for people and machines?,Rely on a centralized identity provider
+Security,How do you manage identities for people and machines?,Audit and rotate credentials periodically
+Security,How do you manage identities for people and machines?,Employ user groups and attributes
+Security,How do you manage permissions for people and machines?,Define access requirements
+Security,How do you manage permissions for people and machines?,Grant least privilege access
+Security,How do you manage permissions for people and machines?,Define permission guardrails for your organization
+Security,How do you manage permissions for people and machines?,Manage access based on lifecycle
+Security,How do you manage permissions for people and machines?,Establish emergency access process
+Security,How do you manage permissions for people and machines?,Share resources securely within your organization
+Security,How do you manage permissions for people and machines?,Reduce permissions continuously
+Security,How do you manage permissions for people and machines?,Share resources securely with a third party
+Security,How do you manage permissions for people and machines?,Analyze public and cross account access
+Security,How do you detect and investigate security events?,Configure service and application logging
+Security,How do you detect and investigate security events?,"Capture logs, findings, and metrics in standardized locations"
+Security,How do you detect and investigate security events?,Initiate remediation for non-compliant resources
+Security,How do you detect and investigate security events?,Correlate and enrich security events
+Security,How do you protect your network resources?,Create network layers
+Security,How do you protect your network resources?,Control traffic within your network layers
+Security,How do you protect your network resources?,Implement inspection-based protection
+Security,How do you protect your network resources?,Automate network protection
+Security,How do you protect your compute resources?,Perform vulnerability management
+Security,How do you protect your compute resources?,Provision compute from hardened images
+Security,How do you protect your compute resources?,Validate software integrity
+Security,How do you protect your compute resources?,Reduce manual management and interactive access
+Security,How do you protect your compute resources?,Automate compute protection
+Security,How do you classify your data?,Understand your data classification scheme
+Security,How do you classify your data?,Apply data protection controls based on data sensitivity
+Security,How do you classify your data?,Define scalable data lifecycle management
+Security,How do you classify your data?,Automate identification and classification
+Security,How do you protect your data at rest?,Implement secure key management
+Security,How do you protect your data at rest?,Enforce encryption at rest
+Security,How do you protect your data at rest?,Automate data at rest protection
+Security,How do you protect your data at rest?,Enforce access control
+Security,How do you protect your data in transit?,Implement secure key and certificate management
+Security,How do you protect your data in transit?,Enforce encryption in transit
+Security,How do you protect your data in transit?,Authenticate network communications
+Security,"How do you anticipate, respond to, and recover from incidents?",Identify key personnel and external resources
+Security,"How do you anticipate, respond to, and recover from incidents?",Develop incident management plans
+Security,"How do you anticipate, respond to, and recover from incidents?",Prepare forensic capabilities
+Security,"How do you anticipate, respond to, and recover from incidents?",Develop and test security incident response playbooks
+Security,"How do you anticipate, respond to, and recover from incidents?",Pre-provision access
+Security,"How do you anticipate, respond to, and recover from incidents?",Run simulations
+Security,"How do you anticipate, respond to, and recover from incidents?",Establish a framework for learning from incidents
+Security,"How do you anticipate, respond to, and recover from incidents?",Pre-deploy tools
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Perform regular penetration testing
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Deploy software programmatically
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Regularly assess security properties of the pipelines
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Train for application security
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Automate testing throughout the development and release lifecycle
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Manual code reviews
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Centralize services for packages and dependencies
+Security,"How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",Build a program that embeds security ownership in workload teams
+Sustainability,How do you select Regions for your workload?,Choose Region based on both business requirements and sustainability goals
+Sustainability,How do you align cloud resources to your demand?,Scale workload infrastructure dynamically
+Sustainability,How do you align cloud resources to your demand?,Align SLAs with sustainability goals
+Sustainability,How do you align cloud resources to your demand?,Optimize geographic placement of workloads based on their networking requirements
+Sustainability,How do you align cloud resources to your demand?,Stop the creation and maintenance of unused assets
+Sustainability,How do you align cloud resources to your demand?,Optimize team member resources for activities performed
+Sustainability,How do you align cloud resources to your demand?,Implement buffering or throttling to flatten the demand curve
+Sustainability,How do you take advantage of software and architecture patterns to support your sustainability goals?,Optimize software and architecture for asynchronous and scheduled jobs
+Sustainability,How do you take advantage of software and architecture patterns to support your sustainability goals?,Remove or refactor workload components with low or no use
+Sustainability,How do you take advantage of software and architecture patterns to support your sustainability goals?,Optimize areas of code that consume the most time or resources
+Sustainability,How do you take advantage of software and architecture patterns to support your sustainability goals?,Optimize impact on devices and equipment
+Sustainability,How do you take advantage of software and architecture patterns to support your sustainability goals?,Use software patterns and architectures that best support data access and storage patterns
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Implement a data classification policy
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Use technologies that support data access and storage patterns
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Use policies to manage the lifecycle of your datasets
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Remove unneeded or redundant data
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Use shared file systems or storage to access common data
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Back up data only when difficult to recreate
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Use elasticity and automation to expand block storage or file system
+Sustainability,How do you take advantage of data management policies and patterns to support your sustainability goals?,Minimize data movement across networks
+Sustainability,How do you select and use cloud hardware and services in your architecture to support your sustainability goals?,Use the minimum amount of hardware to meet your needs
+Sustainability,How do you select and use cloud hardware and services in your architecture to support your sustainability goals?,Use instance types with the least impact
+Sustainability,How do you select and use cloud hardware and services in your architecture to support your sustainability goals?,Use managed services
+Sustainability,How do you select and use cloud hardware and services in your architecture to support your sustainability goals?,Optimize your use of hardware-based compute accelerators
+Sustainability,How do your organizational processes support your sustainability goals?,Adopt methods that can rapidly introduce sustainability improvements
+Sustainability,How do your organizational processes support your sustainability goals?,Keep your workload up-to-date
+Sustainability,How do your organizational processes support your sustainability goals?,Increase utilization of build environments
+Sustainability,How do your organizational processes support your sustainability goals?,Use managed device farms for testing

@@ -1,0 +1,1542 @@
+[
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Establish ownership of cost optimization"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Establish a partnership between finance and technology"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Establish cloud budgets and forecasts"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Implement cost awareness in your organizational processes"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Monitor cost proactively"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Keep up-to-date with new service releases"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Quantify business value from cost optimization"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Report and notify on cost optimization"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you implement cloud financial management?",
+    "Best Practice": "Create a cost-aware culture"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Develop policies based on your organization requirements"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Implement goals and targets"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Implement an account structure"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Implement cost controls"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Implement groups and role"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you govern usage?",
+    "Best Practice": "Track project lifecycle"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Configure detailed information sources"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Identify cost attribution categories"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Establish organization metrics"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Configure billing and cost management tools"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Add organization information to cost and usage"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you monitor your cost and usage?",
+    "Best Practice": "Allocate costs based on workload metrics"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you decommission resources?",
+    "Best Practice": "Track resources over their life time"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you decommission resources?",
+    "Best Practice": "Implement a decommissioning process"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you decommission resources?",
+    "Best Practice": "Decommission resources"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you decommission resources?",
+    "Best Practice": "Enforce data retention policies"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you decommission resources?",
+    "Best Practice": "Decommission resources automatically"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Identify organization requirements for cost"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Analyze all components of this workload"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Perform a thorough analysis of each component"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Select components of this workload to optimize cost in line with organization priorities"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Perform cost analysis for different usage over time"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate cost when you select services?",
+    "Best Practice": "Select software with cost effective licensing"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you meet cost targets when you select resource type, size and number?",
+    "Best Practice": "Perform cost modeling"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you meet cost targets when you select resource type, size and number?",
+    "Best Practice": "Select resource type, size, and number based on data"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you meet cost targets when you select resource type, size and number?",
+    "Best Practice": "Consider using shared resources"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you meet cost targets when you select resource type, size and number?",
+    "Best Practice": "Select resource type, size, and number automatically based on metrics"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you use pricing models to reduce cost?",
+    "Best Practice": "Perform pricing model analysis"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you use pricing models to reduce cost?",
+    "Best Practice": "Choose Regions based on cost"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you use pricing models to reduce cost?",
+    "Best Practice": "Select third-party agreements with cost-efficient terms"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you use pricing models to reduce cost?",
+    "Best Practice": "Implement pricing models for all components of this workload"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you use pricing models to reduce cost?",
+    "Best Practice": "Perform pricing model analysis at the management account level"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you plan for data transfer charges?",
+    "Best Practice": "Perform data transfer modeling"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you plan for data transfer charges?",
+    "Best Practice": "Select components to optimize data transfer cost"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you plan for data transfer charges?",
+    "Best Practice": "Implement services to reduce data transfer costs"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you manage demand, and supply resources?",
+    "Best Practice": "Perform an analysis on the workload demand"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you manage demand, and supply resources?",
+    "Best Practice": "Implement a buffer or throttle to manage demand"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you manage demand, and supply resources?",
+    "Best Practice": "Supply resources dynamically"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate new services?",
+    "Best Practice": "Develop a workload review process"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate new services?",
+    "Best Practice": "Review and analyze this workload regularly"
+  },
+  {
+    "Pillar": "Cost Optimization",
+    "Question": "How do you evaluate the cost of effort?",
+    "Best Practice": "Perform automation for operations"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate customer needs"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate internal customer needs"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate governance requirements"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate compliance requirements"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate threat landscape"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you determine what your priorities are?",
+    "Best Practice": "Evaluate tradeoffs while managing benefits and risks"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Resources have identified owners"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Processes and procedures have identified owners"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Operations activities have identified owners responsible for their performance"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Mechanisms exist to manage responsibilities and ownership"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Mechanisms exist to request additions, changes, and exceptions"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you structure your organization to support your business outcomes?",
+    "Best Practice": "Responsibilities between teams are predefined or negotiated"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Provide executive sponsorship"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Escalation is encouraged"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Communications are timely, clear, and actionable"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Team members are empowered to take action when outcomes are at risk"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Experimentation is encouraged"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Team members are encouraged to maintain and grow their skill sets"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How does your organizational culture support your business outcomes?",
+    "Best Practice": "Resource teams appropriately"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you implement observability in your workload?",
+    "Best Practice": "Identify key performance indicators"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you implement observability in your workload?",
+    "Best Practice": "Implement application telemetry"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you implement observability in your workload?",
+    "Best Practice": "Implement user experience telemetry"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you implement observability in your workload?",
+    "Best Practice": "Implement dependency telemetry"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you implement observability in your workload?",
+    "Best Practice": "Implement distributed tracing"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Use version control"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Test and validate changes"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Use configuration management systems"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Use build and deployment management systems"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Perform patch management"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Share design standards"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Implement practices to improve code quality"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Use multiple environments"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Make frequent, small, reversible changes"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you reduce defects, ease remediation, and improve flow into production?",
+    "Best Practice": "Fully automate integration and deployment"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you mitigate deployment risks?",
+    "Best Practice": "Plan for unsuccessful changes"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you mitigate deployment risks?",
+    "Best Practice": "Test deployments"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you mitigate deployment risks?",
+    "Best Practice": "Employ safe deployment strategies"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you mitigate deployment risks?",
+    "Best Practice": "Automate testing and rollback"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Ensure personnel capability"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Ensure a consistent review of operational readiness"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Use runbooks to perform procedures"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Use playbooks to investigate issues"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Make informed decisions to deploy systems and changes"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you know that you are ready to support a workload?",
+    "Best Practice": "Create support plans for production workloads"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you utilize workload observability in your organization?",
+    "Best Practice": "Create actionable alerts"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you utilize workload observability in your organization?",
+    "Best Practice": "Analyze workload metrics"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you utilize workload observability in your organization?",
+    "Best Practice": "Analyze workload logs"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you utilize workload observability in your organization?",
+    "Best Practice": "Analyze workload traces"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you utilize workload observability in your organization?",
+    "Best Practice": "Create dashboards"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you understand the health of your operations?",
+    "Best Practice": "Measure operations goals and KPIs with metrics"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you understand the health of your operations?",
+    "Best Practice": "Communicate status and trends to ensure visibility into operation"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you understand the health of your operations?",
+    "Best Practice": "Review operations metrics and prioritize improvement"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Use a process for event, incident, and problem management"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Have a process per alert"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Prioritize operational events based on business impact"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Define escalation paths"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Define a customer communication plan for service-impacting events"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Communicate status through dashboards"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you manage workload and operations events?",
+    "Best Practice": "Automate responses to events"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Have a process for continuous improvement"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Perform post-incident analysis"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Implement feedback loops"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Perform knowledge management"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Define drivers for improvement"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Validate insights"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Perform operations metrics reviews"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Document and share lessons learned"
+  },
+  {
+    "Pillar": "Operational Excellence",
+    "Question": "How do you evolve operations?",
+    "Best Practice": "Allocate time to make improvements"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Learn about and understand available cloud services and features"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Evaluate how trade-offs impact customers and architecture efficiency"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Use guidance from your cloud provider or an appropriate partner to learn about architecture patterns and best practices"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Factor cost into architectural decisions"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Use policies and reference architectures"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Use benchmarking to drive architectural decisions"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select the appropriate cloud resources and architecture patterns for your workload?",
+    "Best Practice": "Use a data-driven approach for architectural choices"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Select the best compute options for your workload"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Collect compute-related metrics"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Scale your compute resources dynamically"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Understand the available compute configuration and features"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Configure and right-size compute resources"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and use compute resources in your workload?",
+    "Best Practice": "Use optimized hardware-based compute accelerators"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you store, manage, and access data in your workload?",
+    "Best Practice": "Use purpose-built data store that best support your data access and storage requirements"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you store, manage, and access data in your workload?",
+    "Best Practice": "Collect and record data store performance metrics"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you store, manage, and access data in your workload?",
+    "Best Practice": "Evaluate available configuration options for data store"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you store, manage, and access data in your workload?",
+    "Best Practice": "Implement strategies to improve query performance in data store"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you store, manage, and access data in your workload?",
+    "Best Practice": "Implement data access patterns that utilize caching"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Understand how networking impacts performance"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Evaluate available networking features"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Choose appropriate dedicated connectivity or VPN for your workload"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Use load balancing to distribute traffic across multiple resources"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Choose network protocols to improve performance"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Choose your workload's location based on network requirements"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "How do you select and configure networking resources in your workload?",
+    "Best Practice": "Optimize network configuration based on metrics"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Establish key performance indicators (KPIs) to measure workload health and performance"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Use monitoring solutions to understand the areas where performance is most critical"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Define a process to improve workload performance"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Review metrics at regular intervals"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Load test your workload"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Use automation to proactively remediate performance-related issues"
+  },
+  {
+    "Pillar": "Performance Efficiency",
+    "Question": "What process do you use to support more performance efficiency for your workload?",
+    "Best Practice": "Keep your workload and services up-to-date"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Aware of service quotas and constraints"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Manage service quotas across accounts and Regions"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Accommodate fixed service quotas and constraints through architecture"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Monitor and manage quotas"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Automate quota management"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you manage service quotas and constraints?",
+    "Best Practice": "Ensure that a sufficient gap exists between the current quotas and the maximum usage to accommodate failover"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan your network topology?",
+    "Best Practice": "Use highly available network connectivity for your workload public endpoints"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan your network topology?",
+    "Best Practice": "Provision redundant connectivity between private networks in the cloud and on-premises environments"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan your network topology?",
+    "Best Practice": "Ensure IP subnet allocation accounts for expansion and availability"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan your network topology?",
+    "Best Practice": "Prefer hub-and-spoke topologies over many-to-many mesh"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan your network topology?",
+    "Best Practice": "Enforce non-overlapping private IP address ranges in all private address spaces where they are connected"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload service architecture?",
+    "Best Practice": "Choose how to segment your workload"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload service architecture?",
+    "Best Practice": "Build services focused on specific business domains and functionality"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload service architecture?",
+    "Best Practice": "Provide service contracts per API"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to prevent failures?",
+    "Best Practice": "Identify the kind of distributed systems you depend on"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to prevent failures?",
+    "Best Practice": "Implement loosely coupled dependencies"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to prevent failures?",
+    "Best Practice": "Make all responses idempotent"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to prevent failures?",
+    "Best Practice": "Do constant work"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Implement graceful degradation to transform applicable hard dependencies into soft dependencies"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Throttle requests"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Control and limit retry calls"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Fail fast and limit queues"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Set client timeouts"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Make systems stateless where possible"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+    "Best Practice": "Implement emergency levers"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Monitor all components for the workload (Generation)"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Define and calculate metrics (Aggregation)"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Send notifications (Real-time processing and alarming)"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Automate responses (Real-time processing and alarming)"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Analyze logs"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Conduct reviews regularly"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you monitor workload resources?",
+    "Best Practice": "Monitor end-to-end tracing of requests through your system"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to adapt to changes in demand?",
+    "Best Practice": "Use automation when obtaining or scaling resources"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to adapt to changes in demand?",
+    "Best Practice": "Obtain resources upon detection of impairment to a workload"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to adapt to changes in demand?",
+    "Best Practice": "Obtain resources upon detection that more resources are needed for a workload"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to adapt to changes in demand?",
+    "Best Practice": "Load test your workload"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you implement change?",
+    "Best Practice": "Use runbooks for standard activities such as deployment"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you implement change?",
+    "Best Practice": "Integrate functional testing as part of your deployment"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you implement change?",
+    "Best Practice": "Integrate resiliency testing as part of your deployment"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you implement change?",
+    "Best Practice": "Deploy using immutable infrastructure"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you implement change?",
+    "Best Practice": "Deploy changes with automation"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you back up data?",
+    "Best Practice": "Identify and back up all data that needs to be backed up, or reproduce the data from sources"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you back up data?",
+    "Best Practice": "Secure and encrypt backups"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you back up data?",
+    "Best Practice": "Perform data backup automatically"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you back up data?",
+    "Best Practice": "Perform periodic recovery of the data to verify backup integrity and processes"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you use fault isolation to protect your workload?",
+    "Best Practice": "Deploy the workload to multiple locations"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you use fault isolation to protect your workload?",
+    "Best Practice": "Select the appropriate locations for your multi-location deployment"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you use fault isolation to protect your workload?",
+    "Best Practice": "Use bulkhead architectures to limit scope of impact"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you use fault isolation to protect your workload?",
+    "Best Practice": "Automate recovery for components constrained to a single location"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Monitor all components of the workload to detect failures"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Fail over to healthy resources"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Automate healing on all layers"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Rely on the data plane and not the control plane during recovery"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Use static stability to prevent bimodal behavior"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Send notifications when events impact availability"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you design your workload to withstand component failures?",
+    "Best Practice": "Architect your product to meet availability targets and uptime service level agreements (SLAs)"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Use playbooks to investigate failures"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Perform post-incident analysis"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Test functional requirements"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Test scaling and performance requirements"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Test resiliency using chaos engineering"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you test reliability?",
+    "Best Practice": "Conduct game days regularly"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan for disaster recovery (DR)?",
+    "Best Practice": "Define recovery objectives for downtime and data loss"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan for disaster recovery (DR)?",
+    "Best Practice": "Use defined recovery strategies to meet the recovery objectives"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan for disaster recovery (DR)?",
+    "Best Practice": "Test disaster recovery implementation to validate the implementation"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan for disaster recovery (DR)?",
+    "Best Practice": "Manage configuration drift at the DR site or Region"
+  },
+  {
+    "Pillar": "Reliability",
+    "Question": "How do you plan for disaster recovery (DR)?",
+    "Best Practice": "Automate recovery"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Separate workloads using accounts"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Secure account root user and properties"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Identify and validate control objectives"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Stay up to date with security threats and recommendations"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Identify and prioritize risks using a threat model"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Reduce security management scope"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Automate deployment of standard security controls"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you securely operate your workload?",
+    "Best Practice": "Evaluate and implement new security services and features regularly"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Use strong sign-in mechanisms"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Use temporary credentials"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Store and use secrets securely"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Rely on a centralized identity provider"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Audit and rotate credentials periodically"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage identities for people and machines?",
+    "Best Practice": "Employ user groups and attributes"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Define access requirements"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Grant least privilege access"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Define permission guardrails for your organization"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Manage access based on lifecycle"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Establish emergency access process"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Share resources securely within your organization"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Reduce permissions continuously"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Share resources securely with a third party"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you manage permissions for people and machines?",
+    "Best Practice": "Analyze public and cross account access"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you detect and investigate security events?",
+    "Best Practice": "Configure service and application logging"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you detect and investigate security events?",
+    "Best Practice": "Capture logs, findings, and metrics in standardized locations"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you detect and investigate security events?",
+    "Best Practice": "Initiate remediation for non-compliant resources"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you detect and investigate security events?",
+    "Best Practice": "Correlate and enrich security events"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your network resources?",
+    "Best Practice": "Create network layers"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your network resources?",
+    "Best Practice": "Control traffic within your network layers"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your network resources?",
+    "Best Practice": "Implement inspection-based protection"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your network resources?",
+    "Best Practice": "Automate network protection"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your compute resources?",
+    "Best Practice": "Perform vulnerability management"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your compute resources?",
+    "Best Practice": "Provision compute from hardened images"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your compute resources?",
+    "Best Practice": "Validate software integrity"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your compute resources?",
+    "Best Practice": "Reduce manual management and interactive access"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your compute resources?",
+    "Best Practice": "Automate compute protection"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you classify your data?",
+    "Best Practice": "Understand your data classification scheme"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you classify your data?",
+    "Best Practice": "Apply data protection controls based on data sensitivity"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you classify your data?",
+    "Best Practice": "Define scalable data lifecycle management"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you classify your data?",
+    "Best Practice": "Automate identification and classification"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data at rest?",
+    "Best Practice": "Implement secure key management"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data at rest?",
+    "Best Practice": "Enforce encryption at rest"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data at rest?",
+    "Best Practice": "Automate data at rest protection"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data at rest?",
+    "Best Practice": "Enforce access control"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data in transit?",
+    "Best Practice": "Implement secure key and certificate management"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data in transit?",
+    "Best Practice": "Enforce encryption in transit"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you protect your data in transit?",
+    "Best Practice": "Authenticate network communications"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Identify key personnel and external resources"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Develop incident management plans"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Prepare forensic capabilities"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Develop and test security incident response playbooks"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Pre-provision access"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Run simulations"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Establish a framework for learning from incidents"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you anticipate, respond to, and recover from incidents?",
+    "Best Practice": "Pre-deploy tools"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Perform regular penetration testing"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Deploy software programmatically"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Regularly assess security properties of the pipelines"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Train for application security"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Automate testing throughout the development and release lifecycle"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Manual code reviews"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Centralize services for packages and dependencies"
+  },
+  {
+    "Pillar": "Security",
+    "Question": "How do you incorporate and validate the security properties of applications throughout the design, development, and deployment lifecycle?",
+    "Best Practice": "Build a program that embeds security ownership in workload teams"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you select Regions for your workload?",
+    "Best Practice": "Choose Region based on both business requirements and sustainability goals"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Scale workload infrastructure dynamically"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Align SLAs with sustainability goals"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Optimize geographic placement of workloads based on their networking requirements"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Stop the creation and maintenance of unused assets"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Optimize team member resources for activities performed"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you align cloud resources to your demand?",
+    "Best Practice": "Implement buffering or throttling to flatten the demand curve"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+    "Best Practice": "Optimize software and architecture for asynchronous and scheduled jobs"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+    "Best Practice": "Remove or refactor workload components with low or no use"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+    "Best Practice": "Optimize areas of code that consume the most time or resources"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+    "Best Practice": "Optimize impact on devices and equipment"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+    "Best Practice": "Use software patterns and architectures that best support data access and storage patterns"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Implement a data classification policy"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Use technologies that support data access and storage patterns"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Use policies to manage the lifecycle of your datasets"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Remove unneeded or redundant data"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Use shared file systems or storage to access common data"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Back up data only when difficult to recreate"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Use elasticity and automation to expand block storage or file system"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you take advantage of data management policies and patterns to support your sustainability goals?",
+    "Best Practice": "Minimize data movement across networks"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you select and use cloud hardware and services in your architecture to support your sustainability goals?",
+    "Best Practice": "Use the minimum amount of hardware to meet your needs"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you select and use cloud hardware and services in your architecture to support your sustainability goals?",
+    "Best Practice": "Use instance types with the least impact"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you select and use cloud hardware and services in your architecture to support your sustainability goals?",
+    "Best Practice": "Use managed services"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do you select and use cloud hardware and services in your architecture to support your sustainability goals?",
+    "Best Practice": "Optimize your use of hardware-based compute accelerators"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do your organizational processes support your sustainability goals?",
+    "Best Practice": "Adopt methods that can rapidly introduce sustainability improvements"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do your organizational processes support your sustainability goals?",
+    "Best Practice": "Keep your workload up-to-date"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do your organizational processes support your sustainability goals?",
+    "Best Practice": "Increase utilization of build environments"
+  },
+  {
+    "Pillar": "Sustainability",
+    "Question": "How do your organizational processes support your sustainability goals?",
+    "Best Practice": "Use managed device farms for testing"
+  }
+]
